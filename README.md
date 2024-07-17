@@ -15,6 +15,7 @@ DO NOT DELETE ANY FILES CREATED BY THE SCRIPT DURING EXECUTION
 
 INSTALLATION
 IDE Installation (For Windows OS)
+
 Visit https://www.python.org/downloads/
 Download Python Exe file.
 Install it. (During Installation remember to tick the box “Add Python to PATH”)
