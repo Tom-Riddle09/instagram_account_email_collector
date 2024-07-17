@@ -15,12 +15,12 @@ DO NOT DELETE ANY FILES CREATED BY THE SCRIPT DURING EXECUTION
 
 INSTALLATION
 IDE Installation (For Windows OS)
-● Visit https://www.python.org/downloads/
-● Download Python Exe file.
-● Install it. (During Installation remember to tick the box “Add Python to PATH”)
+Visit https://www.python.org/downloads/
+Download Python Exe file.
+Install it. (During Installation remember to tick the box “Add Python to PATH”)
 Python Library Installation
-● Navigate to the folder where the script is stored.
-● Right click and click on the “Open in Terminal” option.
+ Navigate to the folder where the script is stored.
+ Right click and click on the “Open in Terminal” option.
 ● Now run the command [ pip install -r requirements.txt ] on the Command
 Prompt.
 ● Wait for the Installation to be completed.
