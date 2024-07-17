@@ -50,28 +50,46 @@ Navigate to the folder where the script is stored.
 
 
 Miscellaneous
+
 IG_MEDIA.CSV File Saving Format
 [ username, dict_values([ username , media id , Number of likes , Number
 of comments , Media Type, Time Stamp ]) ]
+
 Access Token Expiry
+
 ● When Running the script, run the option “Update Access Token” first.
+
 ● Note the Expiry Date for you access token.
+
 ● When the Token Expires, Visit https://developers.facebook.com/
+
 ● Click on “My Apps” option
+
 ● Login Using FaceBook Credentials mentioned in the Credential heading.
+
 ● Hover over the top header options “Tools” and click on option “Graph API Explorer”
 on the drop down menu
+
 ● Now on the right side you’ll see option “Generate Access Token”, click on it to
 generate access token.
+
 ● Copy the new Access Token.
+
 ● The newly generated Access Token is only valid for 1 hour.
+
 Extend Access Token Expiry Period to 2 Months
+
 ● Open file “defines.py”
+
 ● On line number 15 you can see the previous Access Token, replace it with the new
 one.
+
 ● Save the file.
+
 ● Now run the Main.py Script
+
 ● Select option “Update Access Token”
+
 ● Follow the Steps on the Screen to extend the expiry period.
 
 
